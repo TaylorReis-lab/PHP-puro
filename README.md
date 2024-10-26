@@ -11,7 +11,7 @@ Este projeto é uma aplicação de cadastro e login de usuários em PHP puro. El
 
 ## Estrutura do Projeto
 
-C:\xampp\htdocs\php-puro
+C:\xampp\htdocs\php-puro </br>
 ├── includes
 │ └── db.php # Arquivo de conexão com o banco de dados 
 ├── views
