@@ -13,12 +13,12 @@ Este projeto é uma aplicação de cadastro e login de usuários em PHP puro. El
 
 C:\xampp\htdocs\php-puro </br>
 ├── includes</br>
-│ └── db.php # Arquivo de conexão com o banco de dados </br>
+│   └── db.php # Arquivo de conexão com o banco de dados </br>
 ├── views</br>
-│ ├── register.php # Página de cadastro de usuário </br>
-│ ├── login.php # Página de login de usuário </br>
-│ ├── logout.php # Botão utilizado para deslogar de usuário </br>
-│ └── private.php # Página privada acessível após login </br>
+│   ├── register.php # Página de cadastro de usuário </br>
+│   ├── login.php # Página de login de usuário </br>
+│   ├── logout.php # Botão utilizado para deslogar de usuário </br>
+│   └── private.php # Página privada acessível após login </br>
 └── index.php # Página inicial do projeto </br>
 └── README.md # Documentação do projeto </br>
 
