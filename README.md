@@ -20,6 +20,7 @@ C:\xampp\htdocs\php-puro
 │ ├── logout.php # Botão utilizado para deslogar de usuário
 │ └── private.php # Página privada acessível após login 
 └── index.php # Página inicial do projeto
+└── README.md             # Documentação do projeto
 
 ## Configuração do Banco de Dados
 
