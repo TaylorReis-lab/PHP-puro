@@ -12,15 +12,15 @@ Este projeto é uma aplicação de cadastro e login de usuários em PHP puro. El
 ## Estrutura do Projeto
 
 C:\xampp\htdocs\php-puro </br>
-├── includes
-│ └── db.php # Arquivo de conexão com o banco de dados 
-├── views
-│ ├── register.php # Página de cadastro de usuário 
-│ ├── login.php # Página de login de usuário 
-│ ├── logout.php # Botão utilizado para deslogar de usuário
-│ └── private.php # Página privada acessível após login 
-└── index.php # Página inicial do projeto
-└── README.md             # Documentação do projeto
+├── includes</br>
+│ └── db.php # Arquivo de conexão com o banco de dados </br>
+├── views</br>
+│ ├── register.php # Página de cadastro de usuário </br>
+│ ├── login.php # Página de login de usuário </br>
+│ ├── logout.php # Botão utilizado para deslogar de usuário </br>
+│ └── private.php # Página privada acessível após login </br>
+└── index.php # Página inicial do projeto </br>
+└── README.md # Documentação do projeto </br>
 
 ## Configuração do Banco de Dados
 
@@ -58,5 +58,9 @@ C:\xampp\htdocs\php-puro </br>
 
 - A aplicação usa a função file_get_contents para fazer requisições à API. Verifique se esta função está habilitada no seu servidor.
 - Este projeto é apenas um exercício de aprendizado e não deve ser usado em produção, pois não implementa práticas de segurança como hashing seguro de senhas e proteção contra SQL Injection.
+
+## Contato
+
+- Para mais informações ou dúvidas, entre em contato pelo email: taylor-reis@outlook.com.
 
 > Status do Projeto: Concluido :heavy_check_mark:
